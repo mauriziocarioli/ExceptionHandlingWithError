@@ -1,4 +1,3 @@
-Repository Init Content
+Error Handling in jBPM
 =======================
 
-Your project description here.
